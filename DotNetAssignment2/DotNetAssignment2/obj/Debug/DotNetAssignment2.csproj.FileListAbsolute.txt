@@ -1,0 +1,10 @@
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\bin\Debug\DotNetAssignment2.exe.config
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\bin\Debug\DotNetAssignment2.exe
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\bin\Debug\DotNetAssignment2.pdb
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.csproj.AssemblyReference.cache
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.Form1.resources
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.Properties.Resources.resources
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.csproj.GenerateResource.cache
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.exe
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.pdb
