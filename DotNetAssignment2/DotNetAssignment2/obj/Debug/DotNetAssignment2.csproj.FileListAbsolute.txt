@@ -8,3 +8,6 @@ C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignm
 C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.csproj.CoreCompileInputs.cache
 C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.exe
 C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.pdb
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crane\Source\Repos\DotNetProject2Spring\DotNetAssignment2\DotNetAssignment2\obj\Debug\DotNetAssignment2.csproj.CopyComplete
